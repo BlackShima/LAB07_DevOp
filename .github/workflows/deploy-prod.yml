@@ -1,6 +1,6 @@
 name: deploy on push production branch
 on:
-  push:
+push:
     branches:
       - production
 jobs:
